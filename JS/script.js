@@ -1,0 +1,1 @@
+// para script de java script
